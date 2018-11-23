@@ -1,0 +1,33 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.pane1{
+	-fx-background-image: url('img1.jpg');
+	-fx-background-size: cover,auto;
+	
+}
+.pane2{
+	-fx-background-image: url('img2.jpg');
+	-fx-background-size: cover,auto;
+	
+}
+.pane3{
+	-fx-background-image: url('img3.jpg');
+	-fx-background-size: cover,auto;
+	
+}
+.pane4{
+	-fx-background-image: url('img4.jpg');
+	-fx-background-size: cover,auto;
+	
+}
+
+ .button{
+     -fx-background-color: #a83738;	
+ }
+ 
+ 
+.button:hover{
+     -fx-background-color: #F5AF33;	
+ }
+
+
